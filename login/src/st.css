@@ -1,0 +1,100 @@
+#a1{
+    margin-left:30%; 
+    font-family: serif;
+    font-size:40px;
+    text-align: center;
+    background-color:greenyellow; 
+    max-width:40%;
+    border-radius:10px;
+}
+#b1{
+    margin-left:5px;
+    font-family: 'Lucida Sans';
+    font-size:25px;
+    max-width:70%;
+}
+#c{
+    margin-left:20px; 
+    border-left:3px; 
+    max-width:25%;
+    font-family:Helvetica;
+    border-radius:7px;
+    color:rgb(106, 226, 26);
+    background-color:rgb(167, 118, 26); 
+}
+label{
+    margin-top:40px; 
+    margin-left :10px; 
+    border-radius:6px;
+   background-color:rgb(186, 253, 124);
+    font-size:33px;
+    font-family:Haettenschweiler;
+    color: rgb(29, 56, 211);
+}
+p{
+    font-size:26px;
+    margin-left:40px;
+    font-family: Geneva, Verdana, sans-serif;
+}
+body{
+    background-color:rgb(148, 215, 241); 
+}
+#c1{
+    margin-left:30%;
+    font-size:50px;
+    background-color:blue;
+    color:white;
+    border-radius:18px; 
+    margin-top:30px;  
+}
+#v{
+    margin-top:10px;
+    margin-left:65%; 
+}
+#m{
+    margin-left: 65%;
+    font-size:35px;
+    max-width: 20%;
+    background-color: gold;
+    border-radius:15px; 
+}
+#c2{
+    font-size:35px;
+    font-weight:500;
+    color:black;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top:2%;
+    background-color:rgba(11, 243, 212, 0.979) ;
+    max-width: 60%;
+    margin-left:20%; 
+}
+#game-button
+{
+     margin-left:20%;
+    font-size:45px;
+    background-color:blue;
+    color:white;
+    border-radius:18px; 
+    margin-top:30px;
+  }
+    
+    #modify-button
+    {
+         margin-left:5%;
+        font-size:25px;
+        background-color:blue;
+        color:white;
+        border-radius:18px; 
+        margin-top:30px; 
+     }
+     #team-button
+     {
+        margin-left:5%;
+        font-size:25px;
+        background-color:blue;
+        color:white;
+        border-radius:18px; 
+        margin-top:30px;  
+
+}
